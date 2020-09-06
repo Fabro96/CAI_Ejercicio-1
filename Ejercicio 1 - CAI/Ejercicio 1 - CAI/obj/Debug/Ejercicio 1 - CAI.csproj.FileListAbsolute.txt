@@ -1,0 +1,7 @@
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\bin\Debug\Ejercicio 1 - CAI.exe.config
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\bin\Debug\Ejercicio 1 - CAI.exe
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\bin\Debug\Ejercicio 1 - CAI.pdb
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\obj\Debug\Ejercicio 1 - CAI.csprojAssemblyReference.cache
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\obj\Debug\Ejercicio 1 - CAI.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\obj\Debug\Ejercicio 1 - CAI.exe
+C:\Users\Fabrizio\OneDrive\Documentos\Facultad\2020\2C 2020\CAI\Práctica - CAI\CAI_Ejercicio-1\Ejercicio 1 - CAI\Ejercicio 1 - CAI\obj\Debug\Ejercicio 1 - CAI.pdb
